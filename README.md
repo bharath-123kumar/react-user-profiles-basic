@@ -46,5 +46,5 @@ This repository contains two ReactJS assignments developed as part of the **Simp
 
 ### Clone Repos  
 ```bash
-git clone https://github.com/yourusername/profile-basic.git
-git clone https://github.com/yourusername/profile-advanced.git
+git clone https://github.com/bharath-123kumar/profile-basic.git
+git clone https://github.com/bharath-123kumar/profile-advanced.git
